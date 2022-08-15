@@ -1,2 +1,5 @@
 console.log("Rodando o sistema de gerenciamento de jogos")
 console.log("aplicação está se conectando ao banco de dados")
+console.log("Rafaela adicionou mais frases")
+console.log("Vamos sempre fazer o bem independente do que nos façam")
+console.log("Mesmo que nos façam o mal, vamos devolver com o bem")
